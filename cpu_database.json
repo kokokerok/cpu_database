@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "devices": [
     {"model": "SM-A515F", "cpu": "Exynos 9611"},
     {"model": "SM-A125F", "cpu": "MediaTek Helio P35"},
