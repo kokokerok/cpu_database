@@ -1,0 +1,12 @@
+{
+  "version": 1.0,
+  "devices": [
+    {"model": "SM-A515F", "cpu": "Exynos 9611"},
+    {"model": "SM-A125F", "cpu": "MediaTek Helio P35"},
+    {"model": "CPH2185", "cpu": "MediaTek Helio P35 (Oppo A15)"},
+    {"model": "RMX2001", "cpu": "MediaTek Helio G90T (Realme 6)"},
+    {"model": "M2004J19G", "cpu": "Mediatek Helio G80 (Redmi 9)"},
+    {"model": "SM-G998B", "cpu": "Exynos 2100 (Galaxy S21 Ultra)"},
+    {"model": "SM-G998U", "cpu": "Qualcomm Snapdragon 888"}
+  ]
+}
