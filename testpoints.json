@@ -1,0 +1,12 @@
+{
+  "version": 1.0,
+  "brands": {
+    "XIAOMI": {
+      "REDMI NOTE 9": "https://raw.githubusercontent.com/kokokerok/.../redmi_note_9.jpg",
+      "REDMI 9": "https://raw.githubusercontent.com/kokokerok/.../redmi_9.jpg"
+    },
+    "SAMSUNG": {
+      "GALAXY A51": "https://raw.githubusercontent.com/kokokerok/.../samsung_a51.jpg"
+    }
+  }
+}
